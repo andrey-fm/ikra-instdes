@@ -1,0 +1,47 @@
+* {
+    font-family: Open Sans;
+}
+
+body {
+    margin: 0px 0px 100px 0px;
+}
+.wrapper {
+    width: 60%;
+    margin:auto;
+    margin-top:50px;
+}
+
+.page_head {
+    background-color:#ED4747;
+    padding: 120px 0 120px 0px;
+    font-size:20px;
+    line-height: 100px;
+}
+
+.description {
+    width:60%;
+    margin:auto;
+    color: white;
+}
+
+h3 {
+    margin-top:35px;
+    margin-bottom:-15px;
+    font-weight: bold;
+}
+
+h4 {
+    margin-top:30px;
+    margin-bottom:-2px;
+    font-weight: bold;
+}
+
+p {
+    line-height: 23px;
+    margin-top:15px;
+    margin-bottom: -5px;
+}
+
+.starter {
+    margin-bottom: 12px;
+}
